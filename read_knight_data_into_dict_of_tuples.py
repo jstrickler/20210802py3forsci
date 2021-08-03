@@ -33,4 +33,6 @@ def print_titles(knight_data):
     for name, data in knight_data.items():
         print(data[0], name)
 
-main()
+
+if __name__ == '__main__':
+    main()
