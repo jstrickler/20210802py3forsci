@@ -1,0 +1,8 @@
+1:Washington:George:1732-02-22:1799-12-14:Westmoreland County:Virginia:1789-04-30:1797-03-04:no party
+3:Jefferson:Thomas:1743-04-13:1826-07-04:Albermarle County:Virginia:1801-03-04:1809-03-04:Democratic - Republican
+4:Madison:James:1751-03-16:1836-06-28:Port Conway:Virginia:1809-03-04:1817-03-04:Democratic - Republican
+5:Monroe:James:1758-04-28:1831-07-04:Westmoreland County:Virginia:1817-03-04:1825-03-04:Democratic - Republican
+9:Harrison:William Henry:1773-02-09:1841-04-04:Berkeley:Virginia:1841-03-04:1841-04-04:Whig
+10:Tyler:John:1790-03-29:1862-01-18:Charles City County:Virginia:1841-04-04:1845-03-04:Whig
+12:Taylor:Zachary:1784-11-24:1850-07-09:Orange County:Virginia:1849-03-05:1850-07-09:Whig
+28:Wilson:Woodrow:1856-12-28:1924-02-03:Staunton:Virginia:1913-03-04:1921-03-04:Democratic

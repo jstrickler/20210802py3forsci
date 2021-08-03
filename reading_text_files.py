@@ -17,3 +17,19 @@ with open(FILE_PATH) as mary_in:
     print(contents)
 print('-' * 60)
 
+with open(FILE_PATH) as mary_in:
+    lines_with_nl = mary_in.readlines()
+    print(lines_with_nl)
+print('-' * 60)
+
+with open(FILE_PATH) as mary_in:
+    lines_without_nl = mary_in.read().splitlines()
+    print(lines_without_nl)
+print('-' * 60)
+
+# generator
+with open(FILE_PATH) as mary_in:
+    lines_without_nl = (line.rstrip() for line in mary_in)
+    print(lines_without_nl)
+print('-' * 60)
+
