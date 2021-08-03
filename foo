@@ -1,0 +1,28 @@
+sys.argv: ['sys_modules.py']
+
+sys.prefix: /Users/jstrick/opt/anaconda3
+
+sys.executable: /Users/jstrick/opt/anaconda3/bin/python
+
+sys.version: 3.7.6 (default, Jan  8 2020, 13:42:34) 
+[Clang 4.0.1 (tags/RELEASE_401/final)]
+
+sys.version_info: sys.version_info(major=3, minor=7, micro=6, releaselevel='final', serial=0)
+
+sys.version_info.major: 3
+
+/Users/jstrick/Desktop/py3forsci
+/Users/jstrick
+/Users/jstrick/curr/lib
+/Users
+/Users/jstrick/PycharmProjects/buildpyman
+/Users/jstrick/opt/anaconda3/lib/python37.zip
+/Users/jstrick/opt/anaconda3/lib/python3.7
+/Users/jstrick/opt/anaconda3/lib/python3.7/lib-dynload
+/Users/jstrick/opt/anaconda3/lib/python3.7/site-packages
+/Users/jstrick/opt/anaconda3/lib/python3.7/site-packages/aeosa
+
+sys.platform: darwin
+
+['__breakpointhook__', '__displayhook__', '__doc__', '__excepthook__', '__interactivehook__', '__loader__', '__name__', '__package__', '__spec__', '__stderr__', '__stdin__', '__stdout__', '_clear_type_cache', '_current_frames', '_debugmallocstats', '_framework', '_getframe', '_git', '_home', '_xoptions', 'abiflags', 'api_version', 'argv', 'base_exec_prefix', 'base_prefix', 'breakpointhook', 'builtin_module_names', 'byteorder', 'call_tracing', 'callstats', 'copyright', 'displayhook', 'dont_write_bytecode', 'exc_info', 'excepthook', 'exec_prefix', 'executable', 'exit', 'flags', 'float_info', 'float_repr_style', 'get_asyncgen_hooks', 'get_coroutine_origin_tracking_depth', 'get_coroutine_wrapper', 'getallocatedblocks', 'getcheckinterval', 'getdefaultencoding', 'getdlopenflags', 'getfilesystemencodeerrors', 'getfilesystemencoding', 'getprofile', 'getrecursionlimit', 'getrefcount', 'getsizeof', 'getswitchinterval', 'gettrace', 'hash_info', 'hexversion', 'implementation', 'int_info', 'intern', 'is_finalizing', 'maxsize', 'maxunicode', 'meta_path', 'modules', 'path', 'path_hooks', 'path_importer_cache', 'platform', 'prefix', 'set_asyncgen_hooks', 'set_coroutine_origin_tracking_depth', 'set_coroutine_wrapper', 'setcheckinterval', 'setdlopenflags', 'setprofile', 'setrecursionlimit', 'setswitchinterval', 'settrace', 'stderr', 'stdin', 'stdout', 'thread_info', 'version', 'version_info', 'warnoptions'] 
+
