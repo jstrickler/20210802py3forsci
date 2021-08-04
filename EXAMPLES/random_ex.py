@@ -11,7 +11,7 @@ fruits = ["pomegranate", "cherry", "apricot", "date", "apple",
 for i in range(10):
     print("random():", random.random())
     print("randint(1, 2000):", random.randint(1, 2000))
-    print("randrange(1, 5):", random.randrange(1, 10))
+    print("randrange(1, 10):", random.randrange(1, 10))
     print("choice(fruit):", random.choice(fruits))
     print("sample(fruit, 3):", random.sample(fruits, 3))
     print()
