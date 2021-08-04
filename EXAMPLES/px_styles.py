@@ -17,5 +17,7 @@ def update_last_names(ws):
         cell.value = cell.value.upper()
         cell.font = px.styles.Font(color='FF0000FF')
 
+    ws.column_dimensions['A'].hidden = True
+
 if __name__ == '__main__':
     main()

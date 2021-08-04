@@ -6,7 +6,7 @@ def main():
     ws = wb.active  # <.>
     headers = next(ws.values)   # <.>
     for row in ws.values:  # <.>
-        print(row[:5])   # <.>
+        print(row)   # <.>
 
 
 if __name__ == '__main__':

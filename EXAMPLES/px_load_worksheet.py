@@ -22,6 +22,10 @@ def main():
 
     print(ws['A1'].value)
     print(ws['C2'].value, ws['B2'].value)
+    print(ws['B2'], ws['B2'].value)
+
+
+
 
 
 if __name__ == '__main__':

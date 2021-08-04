@@ -13,7 +13,8 @@ def main():
 def print_first_and_last_names(ws):
     """Print first and last names of all presidents"""
     pres_range = ws['B2':'C47']  # cell range
-    for row in pres_range:  # row object
+    for row in pres_range:  # row object (generator of rows)
+        print(row)  # tuple of Cell objs
         print(row[1].value, row[0].value)
 
 
