@@ -30,7 +30,7 @@ potus = {
     ]
 }
 
-with open('potus.yaml', 'w') as potus_out:
+with open('potus.yml', 'w') as potus_out:
     yaml.dump(potus, potus_out)
 
 yaml.dump(potus, sys.stdout)

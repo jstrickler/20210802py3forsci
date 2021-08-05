@@ -2,6 +2,7 @@
 # (c) 2015 John Strickler
 #
 import yaml
+from pprint import pprint
 
 PLANET_SECTIONS = "inner outer plutoid".split()
 
@@ -17,5 +18,7 @@ for section in PLANET_SECTIONS:
         for moon in planet['moons']:
             print("\t{}".format(moon))
 
+print('-' * 60)
 
+pprint(solar_data)
 

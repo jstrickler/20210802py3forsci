@@ -18,7 +18,7 @@ colors = [
     'red', 'blue', 'green', 'yellow', 'black',
     'white', 'orange', 'brown', 'purple'
 ]
-
+""
 data = [  # <2>
     colors,
     airports,

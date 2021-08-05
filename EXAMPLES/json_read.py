@@ -6,7 +6,7 @@ with open('../DATA/solar.json') as solar_in:  # <1>
     solar = json.load(solar_in)  # <2>
 
 # json.loads(STRING)
-# json.load(FILE_OBJECT)
+# json.load(FILE_OBJECT)  # should be json.loadf(...) ???
 
 # print(solar)
 
